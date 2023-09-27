@@ -1,3 +1,6 @@
+
+# Rigid-transformation
+
 In mathematics, a rigid transformation (also called Euclidean transformation or Euclidean isometry) is a geometric transformation of a Euclidean space that preserves the Euclidean distance between every pair of points.
 
 The rigid transformations include rotations, translations, reflections, or any sequence of these. Reflections are sometimes excluded from the definition of a rigid transformation by requiring that the transformation also preserve the handedness of objects in the Euclidean space. (A reflection would not preserve handedness; for instance, it would transform a left hand into a right hand.) To avoid ambiguity, a transformation that preserves handedness is known as a proper rigid transformation, or rototranslation. Any proper rigid transformation can be decomposed into a rotation followed by a translation, while any improper rigid transformation can be decomposed into an improper rotation followed by a translation, or into a sequence of reflections.
